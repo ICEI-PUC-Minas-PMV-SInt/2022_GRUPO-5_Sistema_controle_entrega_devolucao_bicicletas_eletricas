@@ -27,8 +27,8 @@ Apresente também alguns (pelo menos 2) objetivos específicos dependendo de ond
 
 Contribuir para a melhoria da mobilidade urbana nas cidades brasileiras, com um sistema de gestão eficiente para entrega e devolução de biciletas elétricas.
 Ofertar ao usuário uma opção alternativa de mobilidade.
-Contribuir para a diminuição do trânsito. Com o acesso a bicicletas de qualidade, o objetivo é estimular maior procura por esse meio de transporte, e consequentemente, diminuir o trânsito.
-Contribuir com o meio ambiente estimulando o maior uso de bicicletas elétricas, meio de transporte não poluente.
+Com o acesso a bicicletas de qualidade, o objetivo é estimular a maior procura por esse meio de transporte, e consequentemente, contribuir com a diminuição do trânsito.
+Contribuir com menor impacto ambiental, estimulando o maior uso de bicicletas elétricas, meio de transporte não poluente.
 As bicicletas elétricas são uma ótima opção de transporte rápido, econômico e alternativo. Auxilia também em suar menos enquanto pedala, ter uma vida mais saudável e fugir do trânsito.
 
 
