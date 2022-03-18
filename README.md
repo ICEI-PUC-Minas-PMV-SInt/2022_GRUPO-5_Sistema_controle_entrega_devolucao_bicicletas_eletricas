@@ -3,9 +3,9 @@
 
 `CURSO SUPERIOR DE TECNOLOGIA EM SISTEMAS PARA INTERNET`
 
-`PROJETO APLICAÇÕES WEB
+`PROJETO APLICAÇÕES WEB`
 
-`1° SEMESTRE
+`1° SEMESTRE`
 
 Descrever resumidamente, em um ou dois parágrafos, o projeto que está sendo desenvolvido.
 
