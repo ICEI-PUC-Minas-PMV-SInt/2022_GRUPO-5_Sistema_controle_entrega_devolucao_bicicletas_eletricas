@@ -48,8 +48,20 @@ As tabelas que se seguem apresentam os requisitos funcionais e não funcionais q
 
 |ID    | Descrição do Requisito  | Prioridade |
 |------|-----------------------------------------|----|
-|RF-001| Permitir que o usuário cadastre tarefas | ALTA | 
-|RF-002| Emitir um relatório de tarefas no mês   | MÉDIA |
+|RF-001| Permitir que o usuário crie uma conta | ALTA | 
+|RF-002| Menu com opções para o usuário | ALTA | 
+|RF-003| Permitir que o usuário escolha o local (estado, cidade) que vai usar a bicicleta | ALTA | 
+|RF-004| Permitir que o usuário escolha um plano de pagamento | ALTA |
+|RF-005| Permitir que o usuário encontre uma estação de bicicletas mais próxima a ele | ALTA |
+|RF-006| Permitir que o usuário adicione informações de pagamento | MÉDIA | 
+|RF-007| Permitir que o usuário devolva a bicicleta para a estação em até um minuto, caso ela apresente danos | MÉDIA | 
+|RF-008| Permitir que o usuário devolva a bicicleta em qualquer estação, não precisando ser a mesma de entrega | MÉDIA | 
+|RF-009| Controle de tempo que cada usuário pode usar, dependendo de seu plano | BAIXA | 
+|RF-010| Controle devolução de cada usuário | BAIXA | 
+|RF-011| Bloqueio de conta de usuário que não devolveu a bicicleta | BAIXA | 
+|RF-012| Sistema de segurança e travamento automático que permite a retirada e devolução das bikes nas estações | ALTA | 
+|RF-013| Sistema de rastreio que localiza o usuário e onde a bicicleta se encontra | MÉDIA | 
+|RF-014| Atualização em tempo real para controle das estações da quantidade de bicicletas disponíveis | ALTA | 
 
 
 ### Requisitos não Funcionais
@@ -57,7 +69,14 @@ As tabelas que se seguem apresentam os requisitos funcionais e não funcionais q
 |ID     | Descrição do Requisito  |Prioridade |
 |-------|-------------------------|----|
 |RNF-001| O sistema deve ser responsivo para rodar em um dispositivos móvel | MÉDIA | 
-|RNF-002| Deve processar requisições do usuário em no máximo 3s |  BAIXA | 
+|RNF-002| O usuário pode desbloquear uma bicicleta por vez | ALTA | 
+|RNF-002| Ultilizar algum requisito de segurança, como senha enviada ao celular do usuário | ALTA | 
+|RNF-002| Enviar e-mail de confirmação de entrega de bicicleta ao usuário | BAIXA | 
+|RNF-002| Enviar e-mail de confirmação de devolução de bicicleta ao usuário | BAIXA |
+|RNF-002| Enviar e-mail com informações de tempo utilizado, valores cobrados e taxa extras, caso houver | BAIXA | 
+|RNF-002| Permitir que o usuário tenha acesso a um mapa das estações com informação de há vaga na determinada estação ou não | BAIXA | 
+|RNF-002| Notificações mostrando o tempo que o usuário ainda tem disponível | BAIXA | 
+
 
 Com base nas Histórias de Usuário, enumere os requisitos da sua solução. Classifique esses requisitos em dois grupos:
 
