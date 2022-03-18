@@ -11,9 +11,9 @@ Descrever resumidamente, em um ou dois parágrafos, o projeto que está sendo de
 
 ## Integrantes
 
-* Nome completo do aluno 1
-* Luana Berato dos Santos
+* Isadora Bittencourt
 * Kayra Rodrigues Marcílio
+* Luana Berato dos Santos
 * Wandy Karine Ludgero Barberino
 
 ## Orientador
