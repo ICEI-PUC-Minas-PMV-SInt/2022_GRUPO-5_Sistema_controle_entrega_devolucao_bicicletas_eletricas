@@ -60,6 +60,12 @@ hierárquicas, etc.
 
 Adicione informações sobre o público-alvo por meio de uma descrição textual, diagramas de personas e mapa de stakeholders.
 
+Pessoas que buscam uma alternativa mais eficiente, ecológica e sustentável em mobilidade urbana.
+Pessoas que gostem de se exercitar e procuram maneiras de introduzir atividades físicas no dia a dia.
+Pessoas que precisam se locomover todos os dias e buscam uma forma mais acessível de realizar seus trajetos.
+Pessoas que precisem de uma alternativa de locomoção para o último trecho, por exemplo, entre uma estação de metrô e o destino final.
+
+
 > **Links Úteis**:
 > - [Público-alvo](https://blog.hotmart.com/pt-br/publico-alvo/)
 > - [Como definir o público alvo](https://exame.com/pme/5-dicas-essenciais-para-definir-o-publico-alvo-do-seu-negocio/)
