@@ -62,6 +62,7 @@ As tabelas que se seguem apresentam os requisitos funcionais e não funcionais q
 |RF-012| Sistema de segurança e travamento automático que permite a retirada e devolução das bikes nas estações | ALTA | 
 |RF-013| Sistema de rastreio que localiza o usuário e onde a bicicleta se encontra | MÉDIA | 
 |RF-014| Atualização em tempo real para controle das estações da quantidade de bicicletas disponíveis | ALTA | 
+|RF-015| Permitir que o usuário reporte qualquer problema de forma rápida e fácil | BAIXA | 
 
 
 ### Requisitos não Funcionais
