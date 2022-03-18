@@ -43,7 +43,7 @@ Apresente também alguns (pelo menos 2) objetivos específicos dependendo de ond
 
 ## Justificativa
 
-Contribuir para a melhoria da mobilidade urbana nas cidades brasileiras, com um sistema de gestão eficiente para entrega e devolução de biciletas elétricas.
+Contribuir para a melhoria da mobilidade urbana nas cidades brasileiras, com um sistema de gestão eficiente para entrega e devolução de bicicletas elétricas.
 Ofertar ao usuário uma opção alternativa de mobilidade.
 Com o acesso a bicicletas de qualidade, o objetivo é estimular a maior procura por esse meio de transporte, e consequentemente, contribuir com a diminuição do trânsito.
 Contribuir com menor impacto ambiental, estimulando o maior uso de bicicletas elétricas, meio de transporte não poluente.
