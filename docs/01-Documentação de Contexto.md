@@ -25,7 +25,7 @@ Apresente também alguns (pelo menos 2) objetivos específicos dependendo de ond
 
 ## Justificativa
 
-As bicicletas eletrônicas(e-Bikes), são uma ótima opção de transporte rápido, econômico e alternativo. Auxilia também em suar menos enquanto pedala, ter uma vida mais saudável e fugir do transito.
+As bicicletas eletrônicas(e-Bikes), são uma ótima opção de transporte rápido, econômico e alternativo. Auxilia também em suar menos enquanto pedala, ter uma vida mais saudável e fugir do trânsito.
 
 > **Links Úteis**:
 > - [Como montar a justificativa](https://guiadamonografia.com.br/como-montar-justificativa-do-tcc/)
