@@ -1,11 +1,11 @@
 ## SISTEMA DE CONTROLE DE ENTREGA E DEVOLUÇÃO DE BICICLETAS ELÉTRICAS
 
 
-`CURSO`
+`CURSO SUPERIOR DE TECNOLOGIA EM SISTEMAS PARA INTERNET`
 
-`DISCIPLINA`
+`PROJETO APLICAÇÕES WEB
 
-`SEMESTRE`
+`1° SEMESTRE
 
 Descrever resumidamente, em um ou dois parágrafos, o projeto que está sendo desenvolvido.
 
