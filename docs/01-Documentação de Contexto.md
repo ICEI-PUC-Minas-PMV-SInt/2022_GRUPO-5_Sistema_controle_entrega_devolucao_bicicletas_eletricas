@@ -9,6 +9,13 @@ Descreva também o contexto em que essa aplicação será usada, se  houver: emp
 
 Nesse momento, o grupo pode optar por fazer uso  de ferramentas como Design Thinking, que permite um olhar de ponta a ponta para o problema.
 
+Como o compartilhamento de bicicletas elétricas pode melhorar a vida nas cidades?
+Quais os efeitos desse sistema na mobilidade urbana?
+Quais são os fatores que torna possível um sistema de controle de entrega e devolução de bicicletas?
+Quais são as diferenças entre usar bicicletas fornecidas pelo sistema e as outras formas de mobilidade?
+Quais são as diferenças entre usar as bicicletas do sistema e usar bicicletas de outras origens (própria, emprestada, alugada)?
+
+
 > **Links Úteis**:
 > - [Objetivos, Problema de pesquisa e Justificativa](https://medium.com/@versioparole/objetivos-problema-de-pesquisa-e-justificativa-c98c8233b9c3)
 > - [Matriz Certezas, Suposições e Dúvidas](https://medium.com/educa%C3%A7%C3%A3o-fora-da-caixa/matriz-certezas-suposi%C3%A7%C3%B5es-e-d%C3%BAvidas-fa2263633655)
