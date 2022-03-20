@@ -52,10 +52,10 @@ hierárquicas, etc.
 
 Adicione informações sobre o público-alvo por meio de uma descrição textual, diagramas de personas e mapa de stakeholders.
 
-Pessoas que buscam uma alternativa mais eficiente, ecológica e sustentável em mobilidade urbana.
-Pessoas que gostem de se exercitar e procuram maneiras de introduzir atividades físicas no dia a dia.
-Pessoas que precisam se locomover todos os dias e buscam uma forma mais acessível de realizar seus trajetos.
-Pessoas que precisem de uma alternativa de locomoção para o último trecho, por exemplo, entre uma estação de metrô e o destino final.
+- Pessoas que buscam uma alternativa mais eficiente, ecológica e sustentável em mobilidade urbana.
+- Pessoas que gostem de se exercitar e procuram maneiras de introduzir atividades físicas no dia a dia.
+- Pessoas que precisam se locomover todos os dias e buscam uma forma mais acessível de realizar seus trajetos.
+- Pessoas que precisem de uma alternativa de locomoção para o último trecho, por exemplo, entre uma estação de metrô e o destino final.
 
 
 > **Links Úteis**:
@@ -75,19 +75,19 @@ O sistema se baseia no modelo internacional de compartilhamento de bicicletas ba
 Também havia a possibilidade de desbloquear a bicicleta utilizando um cartão do bilhete único, porém tal funcionalidade só funcionou em São Paulo.
 
 **Funcionalidades:**
-• Cadastro de novo usuário com email e senha para acesso;
-• Mapa mostrando onde estão as estações próximas ao usuário;
-• Desbloqueio de bicicleta por QR Code, com o leitor do celular do usuário;
-• Cronômetro acompanhando a duração da viagem do usuário em tempo real;
-• Histórico com as informações completas dos últimos itinerários;
-• Aviso quando a viagem está para ser encerrada;
-• Aviso de quando a viagem foi encerrada;
-• Tela do final da viagem mostra a duração, quantas calorias foram perdidas, o nível de CO² (?), a estação em que foi retirada e a estação da devolução;
-• Sistema de pontuação 5 estrelas para avaliação da viagem pelo usuário;
-• Botão para compartilhar a viagem atual do usuário;
-• Compra de planos que podem variar de diários, mensais, trimestrais ou anuais. O usuário seleciona a cidade de sua preferência, onde tem disponível as Tembici, seleciona a categoria de uso que varia entre “eventual” e “rotineiro”, planos a partir da escolha do usuário na categoria de planos;
-• Formas de pagamento: cartão de crédito e débito;
-• Menu com: Planos e Pagamentos – Viagens - Ajuda.
+-• Cadastro de novo usuário com email e senha para acesso;
+-• Mapa mostrando onde estão as estações próximas ao usuário;
+-• Desbloqueio de bicicleta por QR Code, com o leitor do celular do usuário;
+-• Cronômetro acompanhando a duração da viagem do usuário em tempo real;
+-• Histórico com as informações completas dos últimos itinerários;
+-• Aviso quando a viagem está para ser encerrada;
+-• Aviso de quando a viagem foi encerrada;
+-• Tela do final da viagem mostra a duração, quantas calorias foram perdidas, o nível de CO² (?), a estação em que foi retirada e a estação da devolução;
+-• Sistema de pontuação 5 estrelas para avaliação da viagem pelo usuário;
+-• Botão para compartilhar a viagem atual do usuário;
+-• Compra de planos que podem variar de diários, mensais, trimestrais ou anuais. O usuário seleciona a cidade de sua preferência, onde tem disponível as Tembici, seleciona a categoria de uso que varia entre “eventual” e “rotineiro”, planos a partir da escolha do usuário na categoria de planos;
+-• Formas de pagamento: cartão de crédito e débito;
+-• Menu com: Planos e Pagamentos – Viagens - Ajuda.
 
 **Problemas**
 Por ter sido totalmente desenvolvido no Brasil, vários dos problemas já conhecidos em outras cidades do mundo que utilizavam o sistema de bicicletas compartilhadas não foram levadas em conta. As estações possuíam um tamanho fixo e não tinham a possibilidade de serem aumentadas ou diminuídas, caso a demanda daquela estação aumentasse ou diminuísse. Estações offline (sem contato com a central) também eram um problema comum e constante. O gancho que prendia as bicicletas nas estações também não era de grande resistência, bastando tempo e pouco esforço para que a bicicleta fosse furtada da estação. O furto das peças e dos componentes da bicicleta também era algo muito comum e facilitado, já que elas possuíam várias vulnerabilidades que facilitavam o furto das peças.
