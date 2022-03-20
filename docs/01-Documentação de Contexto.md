@@ -1,6 +1,7 @@
 # Introdução
-
-Texto descritivo com a visão geral do projeto abordado. Inclui o contexto, o problema, os objetivos, a justificativa e o público-alvo do projeto.
+Com o alto número populacional nas grandes cidades, o número de veículos aumentou consideravelmente, e com isso, uns dos efeitos sentidos pela população é o aumento do trânsito e aumento de poluição. Diante disso, surge cada vez mais a importância de implementar uma mobilidade sustentável, que implica em meios de transporte mais eficazes e menos poluentes, como por exemplo as bicicletas.
+O uso de bicicletas como meio de transporte apresenta vantagens não somente em relação ao meio ambiente, mas também á saúde e bem estar físico e mental, potencializa e melhora o condicionamento físico e diminui o estresse causado por longo tempo no trânsito.
+Baseado nisso, o projeto visa implementar um sistema para o gerenciamento de locação e devolução de bicicletas, em pontos espalhados pela cidade, tendo como público alvo pessoas interessadas em uma alternativa de transporte eficiente, ecológica, sustentável e que querem introduzir uma atividade física na sua rotina.
 
 ## Problema
 Devido ao aumento populacional nos centros urbanos nos últimos anos, um dos grandes problemas enfrentados nesses locais é o trânsito intenso, que gera engarrafamentos, aumento da poluição, estresse, perda de tempo e diminuição da produtividade. Diante disso, vê-se necessário implementar um sistema de mobilidade sustentável.
