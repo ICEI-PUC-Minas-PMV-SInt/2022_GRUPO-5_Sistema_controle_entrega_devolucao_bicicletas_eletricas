@@ -39,6 +39,14 @@ As bicicletas elétricas são uma ótima opção de transporte rápido, econômi
 - Pessoas que gostem de se exercitar e procuram maneiras de introduzir atividades físicas no dia a dia;
 - Pessoas que precisam se locomover todos os dias e buscam uma forma mais acessível de realizar seus trajetos;
 - Pessoas que precisem de uma alternativa de locomoção para o último trecho, por exemplo, entre uma estação de metrô e o destino final;
+- Buscam se locomover de maneira rápida e acessível além de incluir atividade física no dia a dia, por meio de uma solução alternativa que os leve ao seu destino final.
+
+- Educação: ensino superior 
+- Classe Social: média 
+- Gênero: masculino e feminino
+- Idade: 18-35
+- Nacionalidade: brasileiro
+- Localização: Urbano
 
 
 ## ESTADO DA ARTE ##
