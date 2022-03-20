@@ -75,7 +75,7 @@ O sistema se baseia no modelo internacional de compartilhamento de bicicletas ba
 Também havia a possibilidade de desbloquear a bicicleta utilizando um cartão do bilhete único, porém tal funcionalidade só funcionou em São Paulo.
 
 **Funcionalidades:**
--• Cadastro de novo usuário com email e senha para acesso;
+- • Cadastro de novo usuário com email e senha para acesso;
 -• Mapa mostrando onde estão as estações próximas ao usuário;
 -• Desbloqueio de bicicleta por QR Code, com o leitor do celular do usuário;
 -• Cronômetro acompanhando a duração da viagem do usuário em tempo real;
