@@ -66,7 +66,7 @@ Pessoas que precisem de uma alternativa de locomoção para o último trecho, po
 
 ## ESTADO DA ARTE ##
 
-Para o estado da arte sobre o projeto de Sistema de Controle de Entrega e Devolução de Bicicletas Elétricas selecionamos quatro sistemas de controle de bicicletas compartilhadas que operam mundialmente. Segue abaixo o nome da empresa, o site, as funcionalidades que ela apresenta e os problemas identificados:
+Para o estado da arte sobre o projeto de Sistema de Controle de Entrega e Devolução de Bicicletas Elétricas, selecionamos quatro sistemas de controle de bicicletas compartilhadas que operam mundialmente. Segue abaixo o nome da empresa, o site, as funcionalidades que ela apresenta e os problemas identificados:
 
 ## Tembici ##
 https://www.tembici.com.br/
