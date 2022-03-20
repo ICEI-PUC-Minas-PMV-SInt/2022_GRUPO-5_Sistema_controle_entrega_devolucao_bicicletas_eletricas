@@ -89,7 +89,7 @@ Também havia a possibilidade de desbloquear a bicicleta utilizando um cartão d
 - Formas de pagamento: cartão de crédito e débito;
 - Menu com: Planos e Pagamentos – Viagens - Ajuda.
 
-**Problemas**
+**Problemas**:
 Por ter sido totalmente desenvolvido no Brasil, vários dos problemas já conhecidos em outras cidades do mundo que utilizavam o sistema de bicicletas compartilhadas não foram levadas em conta. As estações possuíam um tamanho fixo e não tinham a possibilidade de serem aumentadas ou diminuídas, caso a demanda daquela estação aumentasse ou diminuísse. Estações offline (sem contato com a central) também eram um problema comum e constante. O gancho que prendia as bicicletas nas estações também não era de grande resistência, bastando tempo e pouco esforço para que a bicicleta fosse furtada da estação. O furto das peças e dos componentes da bicicleta também era algo muito comum e facilitado, já que elas possuíam várias vulnerabilidades que facilitavam o furto das peças.
 
 
@@ -108,7 +108,7 @@ https://www.facebook.com/Yellow-Bikes-372289956286087/
 - Informações sobre a carga de bateria da trava; 
 Possui trava de segurança móvel, ou seja, a bicicleta não precisa de estações para devoluções e entregas (mas elas existem), pois a empresa opera com zonas de uso, então o usuário pode estacionar a bicicleta aonde quiser, desde que esteja dentro da zona de uso. Caso contrário, o Yellow cobra uma taxa de R$ 30, como uma multa. Para destravar o cadeado, basta usar o leitor QR Code do celular.
 
-**Problemas:**
+**Problemas**:
 Por problemas financeiros, paralisou as suas operações e retirou as suas bicicletas das ruas. A quem diga que um dos motivos pode ser a falta de estudo sobre a cultura brasileira, como por exemplo, a tendência ao sedentarismo na população e vandalismos.
 
 
@@ -131,7 +131,7 @@ https://www.li.me/pt/
 Abra o aplicativo, encontre uma bicicleta mais próxima, não é exigido que seja estacionado em uma estação. Leia o QRCode da bicicleta pelo leitor disponível no aplicativo, então escolha a forma de pagamento. Após, vai aparecer informações para o usuário sobre a autonomia da bicicleta escolhida, que permite ao usuário decidir se aquela bicicleta vai completar seu percurso ou não. Após cobrar os valores, o aplicativo libera o destrave da bicicleta. O usuário destrava manualmente puxando a trava na roda traseira. Para finalizar a viagem, estacione em um lugar que não atrapalhe a passagem, trave a bicicleta e confirme no aplicativo.
 O usuário faz menos esforço para pedalar do que faria em uma bicicleta comum.
 
-**Problemas:**
+**Problemas**:
 Usuários que não conseguem excluir a conta nem o cartão de crédito, gerando cobranças indevidas.
 Equipamentos com avarias, em mal estado para uso, usuário demora para encontrar uma que funcione.
 A função de desativar recarga automática do cartão de crédito muitas vezes não funciona gerando cobranças indevidas do cartão do usuário
