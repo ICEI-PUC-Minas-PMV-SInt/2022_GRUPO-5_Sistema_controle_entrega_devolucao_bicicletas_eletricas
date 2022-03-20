@@ -22,10 +22,10 @@ Com base na análise das personas forma identificadas as seguintes histórias de
 
 |EU COMO... `PERSONA`| QUERO/PRECISO ... `FUNCIONALIDADE` |PARA ... `MOTIVO/VALOR`                 |
 |--------------------|------------------------------------|----------------------------------------|
-|Bruno  | Facilidade de mobilidade          | Para ter otimização do tempo e praticidade            |
-|João José  | Transporte menos poluente          | Contribuir para a preservação do meio ambiente            |
-|Mariana       | Utilizar um meio de transporte saudável sem fica suado                | Independência em relação aos carros e aos ônibus e metrôs lotados |
-
+|Bruno | Facilidade de mobilidade | Para ter otimização do tempo e praticidade |
+|João José | Transporte menos poluente | Contribuir para a preservação do meio ambiente |
+|Mariana | Utilizar um meio de transporte saudável sem fica suado | Independência em relação aos carros e aos ônibus e metrôs lotados |
+|João José | Ajuda elétrica na subida de ladeiras | Passar mais confiança ao percorrer distâncias um pouco maiores |
 
 
 ## Requisitos
