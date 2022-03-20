@@ -3,17 +3,9 @@
 Texto descritivo com a visão geral do projeto abordado. Inclui o contexto, o problema, os objetivos, a justificativa e o público-alvo do projeto.
 
 ## Problema
-Nesse momento você deve apresentar o problema que a sua aplicação deve  resolver. No entanto, não é a hora de comentar sobre a aplicação.
-
-Descreva também o contexto em que essa aplicação será usada, se  houver: empresa, tecnologias, etc. Novamente, descreva apenas o que de  fato existir, pois ainda não é a hora de apresentar requisitos  detalhados ou projetos.
-
-Nesse momento, o grupo pode optar por fazer uso  de ferramentas como Design Thinking, que permite um olhar de ponta a ponta para o problema.
-
-Como o compartilhamento de bicicletas elétricas pode melhorar a vida nas cidades?
-Quais os efeitos desse sistema na mobilidade urbana?
-Quais são os fatores que torna possível um sistema de controle de entrega e devolução de bicicletas?
-Quais são as diferenças entre usar bicicletas fornecidas pelo sistema e as outras formas de mobilidade?
-Quais são as diferenças entre usar as bicicletas do sistema e usar bicicletas de outras origens (própria, emprestada, alugada)?
+Devido ao aumento populacional nos centros urbanos nos últimos anos, um dos grandes problemas enfrentados nesses locais é o trânsito intenso, que gera engarrafamentos, aumento da poluição, estresse, perda de tempo e diminuição da produtividade. Diante disso, vê-se necessário implementar um sistema de mobilidade sustentável.
+Mobilidade sustentável propõe implementar transportes com o uso de energia “limpa” e renovável, como por exemplo trens, ônibus elétricos, metrôs, dentre outros. Outra proposta é uso de bicicletas, que é um meio de transporte menos poluente, econômico e rápido, diminuindo o tempo no trânsito e consequentemente reduzindo o estresse.
+Para que as bicicletas sejam mais utilizadas pela população, é importante que criar uma maneira de locação e devolução fácil, rápida e simples.
 
 
 > **Links Úteis**:
@@ -23,11 +15,10 @@ Quais são as diferenças entre usar as bicicletas do sistema e usar bicicletas 
 
 ## Objetivos gerais
 
-Aqui você deve descrever os objetivos do trabalho indicando que o objetivo geral é desenvolver um software para solucionar o problema apresentado acima. 
-
-Apresente também alguns (pelo menos 2) objetivos específicos dependendo de onde você vai querer concentrar a sua prática investigativa, ou como você vai aprofundar no seu trabalho.
+Implementar um sistema web de gerenciamento de locação e devolução de bicicletas elétricas.
 
 ## Objetivos específicos
+
 - Facilitar locação e devolução das bicicletas 
 - Melhorar o gerenciamento das locações
 - Incentivar o uso das bicicletas 
