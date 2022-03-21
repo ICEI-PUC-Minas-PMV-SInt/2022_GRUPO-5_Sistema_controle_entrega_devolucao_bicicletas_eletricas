@@ -22,10 +22,21 @@ Com base na análise das personas forma identificadas as seguintes histórias de
 
 |EU COMO... `PERSONA`| QUERO/PRECISO ... `FUNCIONALIDADE` |PARA ... `MOTIVO/VALOR`                 |
 |--------------------|------------------------------------|----------------------------------------|
-|Bruno | Facilidade de mobilidade | Para ter otimização do tempo e praticidade |
-|João José | Transporte menos poluente | Contribuir para a preservação do meio ambiente |
-|Mariana | Utilizar um meio de transporte saudável sem fica suado | Independência em relação aos carros e aos ônibus e metrôs lotados |
-|João José | Ajuda elétrica na subida de ladeiras | Passar mais confiança ao percorrer distâncias um pouco maiores |
+|Persona Bruno | Facilidade de mobilidade | Para ter otimização do tempo e praticidade |
+|Persona Bruno | Interface para pesquisar bicicletas disponíveis | Buscar todas no raio de 30 km  |
+|Persona João José | Transporte menos poluente | Contribuir para a preservação do meio ambiente |
+|Persona João José | Ajuda elétrica na subida de ladeiras | Passar mais confiança ao percorrer distâncias um pouco maiores |
+|Persona Mariana | Utilizar um meio de transporte saudável sem fica suado | Independência em relação aos carros e aos ônibus e metrôs lotados |
+|Persona Mariana | Cadastro de pagamentos por cartão de crédito intuitivo e fácil de usar | Facilitar os pagamentos |
+|Persona Mariana | GPS preciso em tempo real | Mapeamento e visualização das distâncias percorridas |
+|--------------------|------------------------------------|----------------------------------------|
+|EU COMO... `ADMINISTRADOR`| QUERO/PRECISO ... `FUNCIONALIDADE` |PARA ... `MOTIVO/VALOR`                 |
+|--------------------|------------------------------------|----------------------------------------|
+|Editor do sistema | Criação de ID | Para controle dos usuários |
+|Administrador | Estrutura de custos  | Cálculo das distâncias x tempo |
+|Administrador | Controlar banco de dados | Determinar as necessidades dos dados da empresa e recuperação dos mesmos |
+|Administrador | Alterar permissões | Podem modificar, interagir e avaliar as contas |
+
 
 
 ## Requisitos
