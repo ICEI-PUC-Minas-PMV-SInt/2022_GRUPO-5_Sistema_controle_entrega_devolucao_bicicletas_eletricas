@@ -20,7 +20,7 @@
 
 Com base na análise das personas forma identificadas as seguintes histórias de usuários:
 
-|EU COMO... `PERSONA`| QUERO/PRECISO ... `FUNCIONALIDADE` |PARA ... `MOTIVO/VALOR`                 |
+|EU COMO... `PERSONA`| QUERO/PRECISO ... `FUNCIONALIDADE` |PARA ... `MOTIVO/VALOR`     |
 |--------------------|------------------------------------|----------------------------------------|
 |Persona Bruno | Facilidade de mobilidade | Para ter otimização do tempo e praticidade |
 |Persona Bruno | Interface para pesquisar bicicletas disponíveis | Buscar todas no raio de 30 km  |
@@ -30,8 +30,7 @@ Com base na análise das personas forma identificadas as seguintes histórias de
 |Persona Mariana | Cadastro de pagamentos por cartão de crédito intuitivo e fácil de usar | Facilitar os pagamentos |
 |Persona Mariana | GPS preciso em tempo real | Mapeamento e visualização das distâncias percorridas |
 |--------------------|------------------------------------|----------------------------------------|
-|EU COMO... `ADMINISTRADOR`| QUERO/PRECISO ... `FUNCIONALIDADE` |PARA ... `MOTIVO/VALOR`                 |
-|--------------------|------------------------------------|----------------------------------------|
+|EU COMO... `ADMINISTRADOR`| QUERO/PRECISO ... `FUNCIONALIDADE` |PARA ... `MOTIVO/VALOR`    |
 |Editor do sistema | Criação de ID | Para controle dos usuários |
 |Administrador | Estrutura de custos  | Cálculo das distâncias x tempo |
 |Administrador | Controlar banco de dados | Determinar as necessidades dos dados da empresa e recuperação dos mesmos |
