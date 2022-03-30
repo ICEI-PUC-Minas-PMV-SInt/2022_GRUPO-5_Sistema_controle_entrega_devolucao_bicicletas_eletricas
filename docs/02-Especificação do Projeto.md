@@ -22,13 +22,10 @@ Com base na análise das personas forma identificadas as seguintes histórias de
 
 |EU COMO... `PERSONA`| QUERO/PRECISO ... `FUNCIONALIDADE` |PARA ... `MOTIVO/VALOR`     |
 |--------------------|------------------------------------|----------------------------------------|
-|Persona Bruno | Facilidade de mobilidade | Para ter otimização do tempo e praticidade |
-|Persona Bruno | Interface para pesquisar bicicletas disponíveis | Buscar todas no raio de 30 km  |
-|Persona João José | Transporte menos poluente | Contribuir para a preservação do meio ambiente |
-|Persona João José | Ajuda elétrica na subida de ladeiras | Passar mais confiança ao percorrer distâncias um pouco maiores |
-|Persona Mariana | Utilizar um meio de transporte saudável sem fica suado | Independência em relação aos carros e aos ônibus e metrôs lotados |
-|Persona Mariana | Cadastro de pagamentos por cartão de crédito intuitivo e fácil de usar | Facilitar os pagamentos |
-|Persona Mariana | GPS preciso em tempo real | Mapeamento e visualização das distâncias percorridas |
+|ENTREGADORX DE SERVIÇO DE DELIVERY |Encontrar uma estação próxima e retirar uma bike. |Entregar o pedido de maneira rápida, acessível, baixo custo e sustentável. |
+|EMPREGADX DE UM TRABALHO PRESENCIAL |Chegar mais rápido no trabalho. |Ganhar mais tempo para me dedicar aos estudos e qualidade de vida. |
+|VISITANTE E/OU TURISTA | Conhecer o local através da experiência de pedalar | Ser saudável e aliar lazer com esporte. |
+|PRATICANTE DE ATIVIDADE FÍSICA | Pedalar durante um período e/ou percurso como uma maneira de estar bem. | Para manter um bom condicionamento físico. |
 |--------------------|------------------------------------|----------------------------------------|
 |EU COMO... `ADMINISTRADOR`| QUERO/PRECISO ... `FUNCIONALIDADE` |PARA ... `MOTIVO/VALOR`    |
 |Editor do sistema | Criação de ID | Para controle dos usuários |
@@ -83,6 +80,18 @@ O projeto está restrito pelos itens apresentados na tabela a seguir.
 
 |ID| Restrição                                             |
 |--|-------------------------------------------------------|
-|01| O usuário pode desbloquear uma bicicleta por vez      |
-|02| Não liberar bicicletas caso usuário tenha a conta restrita ou bloqueada |
+|ÁREA DE RESTRIÇÃO| DESCRIÇÃO      |
+|--|-------------------------------------------------------|
+|CICLO DE VIDA| Devido ao baixo orçamento, utilizaremos um ciclo incremental e iterativo, para definir requisitos essenciais e opcionais. |
+|PRAZO & TIMING|O projeto deverá ser entregue até o fim do semestre 2022.1.|
+|POLÍTICA & ASPECTOS LEGAIS|O projeto deverá estar em conformidade com os parâmetros instituídos pela Lei Federal de trânsito vigente. O projeto deverá estar em conformidade com os parâmetros instituídos na LGPD (Lei Geral de Proteção de Dados).|
+|ACESSO NAVEGADOR (cadastro/estações)|O acesso deve ser feito através do navegador web Chrome e/ou Firefox somente para cadastro, help center e visualização das estações/bike.|
+|ACESSO APP (cadastro/estações/desbloqueio)|O acesso deve ser feito através do app, para todas as funcionalidades do navegador e o desbloqueio da bike.|
+|LINGUAGEM E TECNOLOGIA|O sistema deve ser escrito e entregue na linguagem de programação Node.js / JavaScript.|
+|HOSPEDAGEM|Os arquivos deverão estar hospedados em um servidor dedicado (VPS).|
+|USABILIDADE|O sistema deverá ter uma interface amigável, fácil de navegação e com o foco na mobilidade urbana.|
+|ASSINATURA|Os usuários finais deverão pagar com um valor mensal de assinatura ou por aluguel avulso de bike. As empresas poderão ter planos exclusivos.|
+|SERVIDOR|O sistema operacional do servidor será CentOS 7.0 ou superior.|
+|SEGURANÇA|O projeto deverá utilizar o padrão de Certificados SSL/TLS.|
+
 
