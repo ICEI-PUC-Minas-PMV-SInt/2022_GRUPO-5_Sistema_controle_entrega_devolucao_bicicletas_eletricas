@@ -20,18 +20,22 @@
 
 Com base na análise das personas forma identificadas as seguintes histórias de usuários:
 
-|EU COMO... `PERSONA`| QUERO/PRECISO ... `FUNCIONALIDADE` |PARA ... `MOTIVO/VALOR`     |
+| EU COMO... `PERSONA`| QUERO/PRECISO ... `FUNCIONALIDADE` |PARA ... `MOTIVO/VALOR`     |
 |--------------------|------------------------------------|----------------------------------------|
-|ENTREGADORX DE SERVIÇO DE DELIVERY |Encontrar uma estação próxima e retirar uma bike. |Entregar o pedido de maneira rápida, acessível, baixo custo e sustentável. |
-|EMPREGADX DE UM TRABALHO PRESENCIAL |Chegar mais rápido no trabalho. |Ganhar mais tempo para me dedicar aos estudos e qualidade de vida. |
-|VISITANTE E/OU TURISTA | Conhecer o local através da experiência de pedalar | Ser saudável e aliar lazer com esporte. |
-|PRATICANTE DE ATIVIDADE FÍSICA | Pedalar durante um período e/ou percurso como uma maneira de estar bem. | Para manter um bom condicionamento físico. |
+| USUÁRIO | Encontrar uma estação próxima | Retirar uma bicicleta |
+| USUÁRIO | Criar uma conta no aplicativo | Ter acesso a uma bicicleta |
+| USUÁRIO | Obter o tempo dos percursos realizados | Saber quanto tempo me exercitei |
+| USUÁRIO | Ter diversas opções de pagamentos | Usar a melhor escolha para mim no momento |
+| USUÁRIO | Devolver a bicicleta sem cobrança | Não pagar por uma bicicleta que após a retirada, percebi estar com danos |
+| USUÁRIO | Devolver a bicicleta na estação mais próxima a mim | Não precisar andar muito após a devolução |
+| USUÁRIO | Controle entre tempo e cobrança | Ser avisado quando o tempo irá acabar e poder decidir se quero continuar o uso ou não |
+| USUÁRIO | Saber se a estação próxima a mim possui bicicletas disponíveis | Não ir até a estação a toa |
 |--------------------|------------------------------------|----------------------------------------|
-|EU COMO... `ADMINISTRADOR`| QUERO/PRECISO ... `FUNCIONALIDADE` |PARA ... `MOTIVO/VALOR`    |
-|Editor do sistema | Criação de ID | Para controle dos usuários |
-|Administrador | Estrutura de custos  | Cálculo das distâncias x tempo |
-|Administrador | Controlar banco de dados | Determinar as necessidades dos dados da empresa e recuperação dos mesmos |
-|Administrador | Alterar permissões | Podem modificar, interagir e avaliar as contas |
+| EU COMO... `ADMINISTRADOR`| QUERO/PRECISO ... `FUNCIONALIDADE` |PARA ... `MOTIVO/VALOR`    |
+| ADMINISTRADOR | Criar conta administradora no aplicativo | Gestão do sistema |
+| ADMINISTRADOR | Rastrear usuário e bicicleta | Gerenciar quantidade de bicicletas vagas e em uso  |
+| ADMINISTRADOR | Alterar permissões | Modificar, interagir e avaliar as contas |
+| ADMINISTRADOR | Bloquear usuário | O caso de não haver devolução ou falta de pagamento |
 
 
 
