@@ -22,14 +22,18 @@ Com base na análise das personas forma identificadas as seguintes histórias de
 
 | EU COMO... `PERSONA`| QUERO/PRECISO ... `FUNCIONALIDADE` |PARA ... `MOTIVO/VALOR`     |
 |--------------------|------------------------------------|----------------------------------------|
-| USUÁRIO | Encontrar uma estação próxima | Retirar uma bicicleta |
 | USUÁRIO | Criar uma conta no aplicativo | Ter acesso a uma bicicleta |
-| USUÁRIO | Obter o tempo dos percursos realizados | Saber quanto tempo me exercitei |
+| USUÁRIO | Encontrar uma estação próxima a mim | Retirar uma bicicleta |
 | USUÁRIO | Ter diversas opções de pagamentos | Usar a melhor escolha para mim no momento |
+| USUÁRIO | Ver as estações ao meu redor em tempo real | Caso eu decida terminar o percurso |
+| USUÁRIO | Saber se a estação próxima a mim possui bicicletas disponíveis | Não ir até a estação a toa |
+| USUÁRIO | Controle entre tempo e cobrança | Ser avisado quando o tempo irá acabar e poder decidir se quero continuar o uso ou não |
+| USUÁRIO | Registro de tempo dos percursos realizados | Saber quanto tempo demorou para realizar tal percurso |
+| USUÁRIO | Registro de quilômetros dos percursos realizados | Saber quanto eu andei e me exercitei |
+| USUÁRIO | Registro de calorias perdidas em cada percurso | Saber quantas calorias perdi |
 | USUÁRIO | Devolver a bicicleta sem cobrança | Não pagar por uma bicicleta que após a retirada, percebi estar com danos |
 | USUÁRIO | Devolver a bicicleta na estação mais próxima a mim | Não precisar andar muito após a devolução |
-| USUÁRIO | Controle entre tempo e cobrança | Ser avisado quando o tempo irá acabar e poder decidir se quero continuar o uso ou não |
-| USUÁRIO | Saber se a estação próxima a mim possui bicicletas disponíveis | Não ir até a estação a toa |
+| USUÁRIO | Relatar um problema de forma fácil | Resolver os problemas sem estresse |
 |--------------------|------------------------------------|----------------------------------------|
 | EU COMO... `ADMINISTRADOR`| QUERO/PRECISO ... `FUNCIONALIDADE` |PARA ... `MOTIVO/VALOR`    |
 | ADMINISTRADOR | Criar conta administradora no aplicativo | Gestão do sistema |
@@ -37,32 +41,18 @@ Com base na análise das personas forma identificadas as seguintes histórias de
 | ADMINISTRADOR | Alterar permissões | Modificar, interagir e avaliar as contas |
 | ADMINISTRADOR | Bloquear usuário | O caso de não haver devolução ou falta de pagamento |
 
-
-
-## Requisitos
-
-As tabelas que se seguem apresentam os requisitos funcionais e não funcionais que detalham o escopo do projeto.
-
 ### Requisitos Funcionais
 
 |ID    | Descrição do Requisito  | Prioridade |
 |------|-----------------------------------------|----|
 |RF-001| Permitir que o usuário crie uma conta | ALTA | 
-|RF-002| Menu com opções para o usuário | ALTA | 
-|RF-003| Permitir que o usuário escolha o local (estado, cidade) que vai usar a bicicleta | ALTA | 
-|RF-004| Permitir que o usuário escolha um plano de pagamento | ALTA |
-|RF-005| Permitir que o usuário encontre uma estação de bicicletas mais próxima a ele | ALTA |
-|RF-006| Permitir que o usuário adicione informações de pagamento | MÉDIA | 
-|RF-007| Permitir que o usuário devolva a bicicleta para a estação em até um minuto, caso ela apresente danos | MÉDIA | 
-|RF-008| Permitir que o usuário devolva a bicicleta em qualquer estação, não precisando ser a mesma de entrega | MÉDIA | 
-|RF-009| Controle de tempo que cada usuário pode usar, dependendo de seu plano | BAIXA | 
-|RF-010| Controle devolução de cada usuário | BAIXA | 
-|RF-011| Bloqueio de conta de usuário que não devolveu a bicicleta | BAIXA | 
-|RF-012| Sistema de segurança e travamento automático que permite a retirada e devolução das bikes nas estações | ALTA | 
-|RF-013| Sistema de rastreio que localiza o usuário e onde a bicicleta se encontra | MÉDIA | 
-|RF-014| Atualização em tempo real para controle das estações da quantidade de bicicletas disponíveis | ALTA | 
-|RF-015| Permitir que o usuário reporte qualquer problema de forma rápida e fácil | BAIXA | 
-
+|RF-002| Permitir que o usuário encontre uma estação de bicicletas mais próxima a ele | ALTA |
+|RF-003| Permitir que o usuário adicione informações de pagamento | MÉDIA | 
+|RF-004| Mapa atualizado em tempo real das estações e da quantidade de bicicletas disponíveis | ALTA | 
+|RF-005| Controle de tempo que o usuário pode usar, dependendo de seu plano | BAIXA | 
+|RF-006| Notificações mostrando o tempo que o usuário ainda tem disponível | BAIXA | 
+|RF-007| Histórico de percursos com informações de tempo, quilômetros, e calorias obtidas em cada percurso realizado | MÉDIA|
+|RF-008| Permitir que o usuário reporte qualquer problema de forma rápida e fácil | BAIXA | 
 
 ### Requisitos não Funcionais
 
@@ -73,9 +63,12 @@ As tabelas que se seguem apresentam os requisitos funcionais e não funcionais q
 |RNF-003| Enviar e-mail de confirmação de entrega de bicicleta ao usuário | BAIXA | 
 |RNF-004| Enviar e-mail de confirmação de devolução de bicicleta ao usuário | BAIXA |
 |RNF-005| Enviar e-mail com informações de tempo utilizado, valores cobrados e taxa extras, caso houver | BAIXA | 
-|RNF-006| Permitir que o usuário tenha acesso a um mapa das estações com informação de há vaga na determinada estação ou não | BAIXA | 
-|RNF-007| Notificações mostrando o tempo que o usuário ainda tem disponível | BAIXA | 
-
+|RNF-006| Bloqueio de conta de usuário que não devolveu a bicicleta | BAIXA | 
+|RNF-007| Sistema de segurança e travamento automático que permite a retirada e devolução das bikes nas estações | ALTA | 
+|RNF-008| Sistema de rastreio que localiza o usuário e onde a bicicleta se encontra | MÉDIA | 
+|RNF-009| Permitir que o usuário devolva a bicicleta para a estação em até um minuto, caso ela apresente danos | ALTA | 
+|RNF-010| Permitir que o usuário devolva a bicicleta em qualquer estação, não precisando ser a mesma de entrega | ALTA | 
+|RNF-011| Controle de devolução de cada usuário | BAIXA | 
 
 
 ## Restrições
