@@ -28,9 +28,9 @@ Com base na análise das personas forma identificadas as seguintes histórias de
 | USUÁRIO | Ver as estações ao meu redor em tempo real | Caso eu decida terminar o percurso |
 | USUÁRIO | Saber se a estação próxima a mim possui bicicletas disponíveis | Não ir até a estação a toa |
 | USUÁRIO | Controle entre tempo e cobrança | Ser avisado quando o tempo irá acabar e poder decidir se quero continuar o uso ou não |
-| USUÁRIO | Registro de tempo dos percursos realizados | Saber quanto tempo demorou para realizar tal percurso |
-| USUÁRIO | Registro de quilômetros dos percursos realizados | Saber quanto eu andei e me exercitei |
-| USUÁRIO | Registro de calorias perdidas em cada percurso | Saber quantas calorias perdi |
+| USUÁRIO | Saber o tempo dos percursos realizados | Saber quanto tempo demorou para realizar tal percurso |
+| USUÁRIO | Ver os quilômetros dos percursos realizados | Saber quanto eu andei e me exercitei |
+| USUÁRIO | Ver quantas calorias foram perdidas em cada percurso | Saber quantas calorias perdi |
 | USUÁRIO | Devolver a bicicleta sem cobrança | Não pagar por uma bicicleta que após a retirada, percebi estar com danos |
 | USUÁRIO | Devolver a bicicleta na estação mais próxima a mim | Não precisar andar muito após a devolução |
 | USUÁRIO | Relatar um problema de forma fácil | Resolver os problemas sem estresse |
