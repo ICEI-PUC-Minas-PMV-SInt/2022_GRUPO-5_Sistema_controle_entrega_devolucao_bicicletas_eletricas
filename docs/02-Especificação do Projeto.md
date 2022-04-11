@@ -24,7 +24,7 @@ Com base na análise das personas forma identificadas as seguintes histórias de
 |--------------------|------------------------------------|----------------------------------------|
 | USUÁRIO | Criar uma conta no aplicativo | Ter acesso a uma bicicleta |
 | USUÁRIO | Encontrar uma estação próxima a mim | Retirar uma bicicleta |
-| USUÁRIO | Ter diversas opções de pagamentos | Usar a melhor escolha para mim no momento |
+| USUÁRIO | Ter diversas opções de pagamentos | Escolher a melhor opção para mim no momento |
 | USUÁRIO | Ver as estações ao meu redor em tempo real | Caso eu decida terminar o percurso |
 | USUÁRIO | Saber se a estação próxima a mim possui bicicletas disponíveis | Não ir até a estação a toa |
 | USUÁRIO | Controle entre tempo e cobrança | Ser avisado quando o tempo irá acabar e poder decidir se quero continuar o uso ou não |
