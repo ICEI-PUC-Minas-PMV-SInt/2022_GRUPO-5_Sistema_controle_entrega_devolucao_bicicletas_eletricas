@@ -53,22 +53,22 @@ Com base na análise das personas forma identificadas as seguintes histórias de
 |RF-006| Notificações mostrando o tempo que o usuário ainda tem disponível | BAIXA | 
 |RF-007| Histórico de percursos com informações de tempo, quilômetros, e calorias obtidas em cada percurso realizado | MÉDIA|
 |RF-008| Permitir que o usuário reporte qualquer problema de forma rápida e fácil | BAIXA | 
+|RF-009| O sistema deve ser responsivo para rodar em um dispositivos móvel | MÉDIA | 
+|RF-010| Enviar e-mail de confirmação de entrega de bicicleta ao usuário | BAIXA | 
+|RF-011| Enviar e-mail de confirmação de devolução de bicicleta ao usuário | BAIXA |
+|RF-012| Enviar e-mail com informações de tempo utilizado, valores cobrados e taxa extras, caso houver | BAIXA | 
 
 ### Requisitos não Funcionais
 
 |ID     | Descrição do Requisito  |Prioridade |
 |-------|-------------------------|----|
-|RNF-001| O sistema deve ser responsivo para rodar em um dispositivos móvel | MÉDIA | 
-|RNF-002| Ultilizar algum requisito de segurança, como senha enviada ao celular do usuário | ALTA | 
-|RNF-003| Enviar e-mail de confirmação de entrega de bicicleta ao usuário | BAIXA | 
-|RNF-004| Enviar e-mail de confirmação de devolução de bicicleta ao usuário | BAIXA |
-|RNF-005| Enviar e-mail com informações de tempo utilizado, valores cobrados e taxa extras, caso houver | BAIXA | 
-|RNF-006| Bloqueio de conta de usuário que não devolveu a bicicleta | BAIXA | 
-|RNF-007| Sistema de segurança e travamento automático que permite a retirada e devolução das bikes nas estações | ALTA | 
-|RNF-008| Sistema de rastreio que localiza o usuário e onde a bicicleta se encontra | MÉDIA | 
-|RNF-009| Permitir que o usuário devolva a bicicleta para a estação em até um minuto, caso ela apresente danos | ALTA | 
-|RNF-010| Permitir que o usuário devolva a bicicleta em qualquer estação, não precisando ser a mesma de entrega | ALTA | 
-|RNF-011| Controle de devolução de cada usuário | BAIXA | 
+|RNF-001| Ultilizar algum requisito de segurança, como senha enviada ao celular do usuário | ALTA | 
+|RNF-002| Bloqueio de conta de usuário que não devolveu a bicicleta | BAIXA | 
+|RNF-003| Sistema de segurança e travamento automático que permite a retirada e devolução das bikes nas estações | ALTA | 
+|RNF-004| Sistema de rastreio que localiza o usuário e onde a bicicleta se encontra | MÉDIA | 
+|RNF-005| Permitir que o usuário devolva a bicicleta para a estação em até um minuto, caso ela apresente danos | ALTA | 
+|RNF-006| Permitir que o usuário devolva a bicicleta em qualquer estação, não precisando ser a mesma de entrega | ALTA | 
+|RNF-007| Controle de devolução de cada usuário | BAIXA | 
 
 
 ## Restrições
