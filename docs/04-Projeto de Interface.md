@@ -9,9 +9,15 @@ Visão geral da interação do usuário pelas telas do sistema e protótipo inte
 
 ## User Flow
 
-![Exemplo de UserFlow](img/userflow.jpg)
+Link abaixo com o fluxo de usabilidade do aplicativo TÔ DE BIKE.
+![Screen Shot 2022-04-13 at 20 06 43](https://user-images.githubusercontent.com/91901398/163284037-1a9b2f9f-054b-44de-bb1e-8142528980e7.png)
+
+https://www.figma.com/file/T3kKpbmiN8AwqOHDzori2g/PUC_G5_Sistema-de-Entrega-e-Devolu%C3%A7%C3%A3o-de-Bicicletas-El%C3%A9tricas-team-library?node-id=0%3A1
 
 Fluxo de usuário (User Flow) é uma técnica que permite ao desenvolvedor mapear todo fluxo de telas do site ou app. Essa técnica funciona para alinhar os caminhos e as possíveis ações que o usuário pode fazer junto com os membros de sua equipe.
+
+> **Link de Navegação**:
+https://www.figma.com/proto/T3kKpbmiN8AwqOHDzori2g/PUC_G5_Sistema-de-Entrega-e-Devolu%C3%A7%C3%A3o-de-Bicicletas-El%C3%A9tricas-team-library?node-id=442%3A2&scaling=scale-down&page-id=0%3A1&starting-point-node-id=442%3A2&show-proto-sidebar=1
 
 > **Links Úteis**:
 > - [User Flow: O Quê É e Como Fazer?](https://medium.com/7bits/fluxo-de-usu%C3%A1rio-user-flow-o-que-%C3%A9-como-fazer-79d965872534)
