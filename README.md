@@ -16,6 +16,7 @@ O presente estudo para o projeto de Sistema de Controle de Entrega e Devolução
 * Luana Berato dos Santos
 * Wandy Karine Ludgero Barberino
 * Antonio Salles Jr
+* Márcia Aparecida Albergaria de Carvalho
 
 ## Orientador
 
