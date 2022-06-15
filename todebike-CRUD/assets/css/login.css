@@ -1,0 +1,119 @@
+@import url("https://fonts.googleapis.com/css2?family=Inter:wght@400;700&display=swap");
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+body{
+    font-family: "Inter", san-serif;
+  }
+  
+/* LOGIN */
+.main-login {
+    width: 100vw;
+    height: 100vh;
+    background: #fff;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+  }
+  
+  .left-login {
+    width: 50vw;
+    height: 100vh;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    background: linear-gradient(#078cb4, #6abd50);
+  }
+  
+  .left-login-image {
+    width: 186px;
+    height: 141px;
+  }
+  
+  .right-login {
+    width: 50vw;
+    height: 100vh;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+  }
+  
+  .card-login {
+    display: flex;
+    flex-direction: column;
+    width: 40%;
+  }
+  
+  .card-login h1 {
+    font-size: 28px;
+    color: #078cb4;
+    text-align: center;
+    margin-bottom: 20px;
+    font-weight: 400;
+  }
+  
+  .form-field {
+    margin: 8px 0;
+  }
+  
+  .form-field input {
+    width: 100%;
+    color: #242424;
+    background: #e7e7e7;
+    border: none;
+    padding: 15px;
+    border-radius: 50px;
+    outline: none;
+  }
+  
+  .btn-login {
+    margin-top: 4px;
+    background: #0098da;
+    padding: 10px 0;
+    border: none;
+    border-radius: 50px;
+    color: #fff;
+    text-transform: uppercase;
+    letter-spacing: 2px;
+    cursor: pointer;
+    font-weight: 700;
+    width: 100%;
+  }
+  
+  .card-login span {
+    color: #078cb4;
+    text-align: center;
+    font-size: 16px;
+    margin-top: 15px;
+  }
+  
+  @media only screen and (max-width: 950px) {
+    .card-login {
+      width: 85%;
+    }
+  }
+  
+  @media only screen and (max-width: 600px) {
+    .main-login {
+      flex-direction: column;
+    }
+    .left-login {
+      display: none;
+    }
+    .left-login-image {
+      display: none;
+    }
+    .right-login {
+      width: 100%;
+    }
+    .card-login {
+      width: 75%;
+    }
+    .card-login > h1 {
+      font-size: 35px;
+      margin-top: 1rem;
+    }
+  }

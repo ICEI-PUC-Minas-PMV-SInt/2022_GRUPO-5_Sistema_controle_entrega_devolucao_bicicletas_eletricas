@@ -1,0 +1,260 @@
+@import url("https://fonts.googleapis.com/css2?family=Inter:wght@400;700&display=swap");
+
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+body{
+  font-family: "Inter", san-serif;
+  display: flex;
+  align-items: center;
+}
+
+.button{
+    border-style: none;
+    height: 40px;
+    padding: 6px 12px;
+    background-color: black;
+    color: white;
+    font-size: 1rem;
+    cursor: pointer;
+    transition: box-shadow .6s ease;
+}
+button.blue{
+    background-color: #0098DA;
+    border-radius: 3px;
+}
+button.green{
+    background-color: #6ABD50;
+    border-radius: 3px;
+}
+button.red{
+    background-color: #DA3400;
+    border-radius: 3px;
+}
+.button:hover{
+    box-shadow: inset 200px 0 0 #00000055;
+}
+
+/* DASHBOARD PAGINA USUÁRIOS */
+
+/* SIDEBAR */
+
+.siderbar {
+    background-color: #f8f8f8;
+    height: 100vh;
+    width: 6vw;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: space-around;
+    box-shadow: 1px 0px 3px #ccc;
+}
+.sidebar-top,
+.sidebar-center,
+.sidebar-bottom {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+}
+.sidebar__logo {
+    margin-top: 65px;
+}
+.sidebar__center {
+    padding: 0;
+}
+.sidebar__itens {
+    list-style: none;
+    text-align: center;
+}
+.sidebar__item {
+    margin-bottom: 10px;
+    padding: 10px;
+}
+
+/* DASHBOARD */
+
+main {
+    height: 100vh;
+    width: 90vw;
+    flex-direction: column;
+}
+.header {
+    padding: 20px;
+    width: 95%;
+    margin: auto;
+}
+.header__usuario {
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+}
+.header__title {
+    font-size: 30px;
+    font-weight: 700;
+}
+.header__photo {
+    width: 50px;
+    height: 50px;
+    border: 1px solid #BABABA;
+    border-radius: 100%;
+    cursor: pointer;
+    background-color: #F4F4F4;
+}
+.header__items ul {
+    display: flex;
+    list-style-type: none;
+    font-size: 12px;
+    font-weight: bold;
+}
+.header__items li {
+    margin: 20px 10px 20px 0;
+}
+
+.header__botoes {
+    display: flex;
+    width: 100%;
+    justify-content: space-between;
+}
+
+.header__busca {
+    border-radius: 40px;
+    width: 250px;
+    outline-style: none;
+    border-style: none;
+    box-shadow: 0 0 2px black;
+    margin-right: 20px;
+}
+.header__busca::placeholder {
+    font-size: 14px;
+    padding: 20px;
+    text-align: start;
+}
+.header__botao {
+    background-color: #0098DA;
+    color: #FFFFFF;
+    border: none;
+    border-radius: 3px;
+    width: 170px;
+    height: 35px;
+    padding: 10px;
+    text-align: center;
+    font-size: 16px;
+    letter-spacing: 0.5px;
+    cursor: pointer;
+}
+
+.header__botao:hover {
+    box-shadow: inset 200px 0 0 #00000055;
+}
+
+/* TABLE */
+.records{
+    padding: 20px;
+    width: 90%;
+    -webkit-user-select: none;
+    user-select: none;
+    text-align: left;
+    border-collapse: collapse;
+    margin: 20px auto 10px auto;
+}
+.records th{
+    height: 50px;
+    background-color: #FFFFFF;
+    padding-left: 20px;
+    font-size: 1rem;
+    font-weight: 600;
+    
+}
+.records td{
+    height: 50px;
+    padding-left: 20px;
+}
+.records th:last-child,
+.records td:last-child{
+    padding: 0;
+    min-width: 140px;
+}
+.records tr {
+    border-bottom: 1px solid rgba(0,0,0,0.1);
+}
+.records tr:hover{
+    background-color: #F4F4F4;
+}
+
+/* MODAL */
+.modal {
+    position: fixed;
+    top: 0;
+    left: 0;
+    width: 100%;
+    height: 100%;
+    background: #0005;
+    opacity: 0;
+    z-index: -1;
+}
+.modal.active{
+    opacity: 1;
+    z-index: 1;
+}
+.modal__content {
+    display: flex;
+    flex-direction: column;
+    gap: 20px;
+    width: 50vw;
+    margin: 15vh auto;
+    padding-bottom: 20px;
+    background-color: #FFFFFF;
+    box-shadow: 1px 1px 10px #000000;
+}
+.modal__header {
+    display: flex;
+    position: relative;
+    justify-content: center;
+    height: 40px;
+    line-height: 40px;
+    font-size: 1rem;
+    background-color: #F9F9F9;
+}
+.modal__header-close {
+    position: absolute;
+    right: 0;
+    display: block;
+    width: 40px;
+    height: 40px;
+    text-align: center;
+    -webkit-user-select: none;
+    user-select: none;
+    cursor: pointer;
+}
+.modal__header-close:hover {
+    background-color: #0098DA;
+    color: #FFFFFF;
+}
+.modal__form {
+    display: flex;
+    justify-content: space-between;
+    flex-wrap: wrap;
+    gap: 20px;
+    padding: 0 20px;
+}
+.modal__field {
+    width: calc(50% - 10px);
+    height: 40px;
+    outline-style: none;
+    border-style: none;
+    box-shadow: 0 0 2px #000000;
+    padding: 0 10px;
+    font-size: 1rem;
+}
+.modal__field:focus{
+    border: 2px solid #0098DA;
+    box-shadow: 0 0 3px #0098DA;
+}
+.modal__footer{
+    background-color: inherit;
+    text-align: right;
+    padding: 0 20px;
+}

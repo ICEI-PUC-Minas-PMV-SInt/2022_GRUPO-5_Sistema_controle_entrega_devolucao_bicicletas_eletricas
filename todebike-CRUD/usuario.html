@@ -1,0 +1,142 @@
+<!DOCTYPE html>
+<html lang="pt-br">
+  <head>
+    <meta charset="UTF-8" />
+    <meta http-equiv="X-UA-Compatible" content="IE=edge" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <link rel="stylesheet" href="./assets/css/reset.css" />
+    <link rel="stylesheet" href="./assets/css/usuario.css" />
+    <script src="./assets/js/main.js" defer></script>
+    <title>Tô de Bike</title>
+  </head>
+  <body>
+    <aside>
+      <div class="siderbar">
+        <div class="sidebar__top">
+          <img
+            class="sidebar__logo"
+            src="./assets/img/logo.svg"
+            alt="Logo Tô de Bike"
+          />
+        </div>
+        <div class="sidebar__center">
+          <ul class="sidebar__itens">
+            <li class="sidebar__item">
+              <img src="./assets/img/btnplus.svg" alt="botão adicionar" />
+            </li>
+            <li class="sidebar__item">
+              <img src="./assets/img/icon-user.svg" alt="botão usuário" />
+            </li>
+            <li class="sidebar__item">
+              <img src="./assets/img/icon-bike.svg" alt="botão bike" />
+            </li>
+            <li class="sidebar__item">
+              <img src="./assets/img/icon-localizacao.svg" alt="botão localização" />
+            </li>
+            <li class="sidebar__item">
+              <img src="./assets/img/icon-preco.svg" alt="botão preços" />
+            </li>
+            <li class="sidebar__item">
+              <img src="./assets/img/icon-comunicacao.svg" alt="botão comunicacao" />
+            </li>
+            <li class="sidebar__item">
+              <img src="./assets/img/icon-config.svg" alt="botão configuração" />
+            </li>
+          </ul>
+        </div>
+        <div class="sidebar__bottom">
+          <ul class="sidebar__itens">
+            <li class="sidebar__item">
+              <img src="./assets/img/icon-alerta.svg" alt="botão alerta" />
+            </li>
+            <li class="sidebar__item">
+              <img src="./assets/img/icon-btnhamburguer.svg" alt="botão hamburguer" />
+            </li>
+          </ul>
+        </div>
+      </div>
+    </aside>
+
+    <main>
+      <header class="header">
+        <div class="header__usuario">
+          <h1 class="header__title">Usuários</h1>
+          <div class="header__photo"></div>
+        </div>
+        <div class="header__items">
+          <ul>
+            <li>Todos |</li>
+            <li>Administrador |</li>
+            <li>Cliente |</li>
+            <li>Manutenção |</li>
+            <li>Atendimento</li>
+          </ul>
+        </div>
+        <div class="header__busca-botao">
+          <input
+            type="search"
+            class="header__busca"
+            placeholder="Pesquisar usuário"
+          />
+          <button type="button" class="header__botao mobile" id="cadastrarUsuario">
+            + Adicionar usuário
+          </button>
+        </div>
+      </header>
+
+      <table id="tableUser" class="records">
+        <thead>
+          <th>ID</th>
+          <th>Nome</th>
+          <th>E-mail</th>
+          <th>Função</th>
+        </thead>
+        <tbody></tbody>
+      </table>
+
+      <div class="modal" id="modal">
+        <div class="modal__content">
+          <header class="modal__header">
+            <h2>Novo Usuário</h2>
+            <span class="modal__header-close" id="modalClose">&#10006;</span>
+          </header>
+          <form id="form" class="modal__form">
+            <input
+              type="number"
+              id="ID"
+              class="modal__field"
+              placeholder="ID do Usuário"
+              required
+            />
+            <input
+              type="text"
+              id="nome"
+              data-index="new"
+              class="modal__field"
+              placeholder="Nome do Usuário"
+              required
+            />
+            <input
+              type="email"
+              id="email"
+              class="modal__field"
+              placeholder="E-mail do Usuário"
+              required
+            />
+            <input
+              type="text"
+              id="funcao"
+              class="modal__field"
+              placeholder="Função do Usuário"
+              required
+            />
+          </form>
+          <footer class="modal__footer">
+            <button id="salvar" class="button green">Salvar</button>
+            <button id="cancelar" class="button blue">Cancelar</button>
+          </footer>
+        </div>
+      </div>
+    </main>
+  </body>
+</html>
